@@ -1,0 +1,17 @@
+<laptops> 
+	<laptop name = "Dell">
+		<price value = "50000"/>
+		<RAM value = "8GB"/>
+		<SSD Value = "250GB"/>
+	</laptop>
+		<laptop name = "Lenevo">
+			<price value = "40000"/>
+			<RAM value = "10GB"/>
+			<SSD Value = "250GB"/>
+	</laptop>
+		<laptop name = "hp">
+			<price value = "60000"/>
+			<RAM value = "128GB"/>
+			<SSD Value = "560GB"/>
+	</laptop>
+</laptops>
