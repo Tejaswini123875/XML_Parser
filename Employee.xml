@@ -1,0 +1,23 @@
+<?xml version = "1.0"?> 
+<class> 
+<employee id = "300"> 
+	<firstname>Geek</firstname> 
+	<lastname>Person1</lastname> 
+	<nickname>Rachel</nickname> 
+	<salary>85000</salary> 
+</employee> 
+	
+<employee id = "400"> 
+	<firstname>Geek</firstname> 
+	<lastname>Person2</lastname> 
+	<nickname>Monica</nickname> 
+	<salary>75000</salary> 
+</employee> 
+	
+<employee id = "500"> 
+	<firstname>Geek</firstname> 
+	<lastname>Person3</lastname> 
+	<nickname>Phoebe</nickname> 
+	<salary>70000</salary> 
+</employee> 
+</class>
